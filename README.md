@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on UC- MCTS kaggle competetion (Nikhil029)<br>🌱 I’m currently learning Advanced DSA and Data Science.<br>💬 Ask me about DSA and Data Science.<br>⚡ I like to play Chess and taking good pictures.
+<br>🌱 I’m currently learning about Machine learning and Generative models .<br>💬 Ask me about Artificial intelligence and machine learning.<br>⚡ I like to read books and taking good pictures. 
 
 
 ## 🌐 Socials:
