@@ -1,6 +1,6 @@
 # About Me:
 <br> Hi 👋, I am Nikhil from North India, Nice to meet youuu..
-<br>I like data, to read books and taking good pictures.<br>
+<br>I like data, to read books and taking good pictures, And most important i like to code in light mode<br>
 
 
 ## Socials:
