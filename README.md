@@ -1,5 +1,5 @@
 # About Me:
-<br> I’m currently learning about Machine learning and Generative models .<br>Ask me about Artificial intelligence and machine learning.<br>I like to read books and taking good pictures. 
+<br>I like data, to read books and taking good pictures.<br>I like to read books and taking good pictures
 
 
 ## Socials:
